@@ -76,6 +76,10 @@ nav ul a {
     background-color: #3D405B;
 }
 
+.hero__content--text .btn-large{
+    margin-bottom: 7%;
+}
+
 .hero2, .hero4{
     background-color: #FFF;
 }
@@ -188,6 +192,7 @@ nav ul a {
     position: absolute;
     top: 35%;
     left: -4%;
+    opacity: 0.3;
 }
 
 .testimonial-section.row{
